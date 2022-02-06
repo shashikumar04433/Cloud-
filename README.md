@@ -1,11 +1,11 @@
 # Cloud-
 Beginner to the cloud computing
 
-## What is Cloud Computing?
+# What is Cloud Computing?
   Cloud computing is the delivery of different services through the internet,including data storage,servers,databases,networking and software.
   
-## Advantages and Disadvantages  of Cloud?
-## Advantages:
+# Advantages and Disadvantages  of Cloud?
+# Advantages:
    1.Back up and restore data.
    2.Low maintain cost.
    3.Pay as much as you use.(Service in the pay-per-use model).
