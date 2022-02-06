@@ -10,7 +10,7 @@ Beginner to the cloud computing
    2.Low maintain cost.\
    3.Pay as much as you use.(Service in the pay-per-use model).\
    4.Mobility.\
-   5.Data Security.\
+   5.Data Security.
    
 ## Dis Advantages:
   1.Internet Connectivity.(Without internet we cant access the data from cloud ,There should be need of good internet to access the data)\
