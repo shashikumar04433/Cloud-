@@ -18,5 +18,18 @@ Beginner to the cloud computing
   3.Limited Control.\
   4.Security.(You will be sending sensitive info of your organizations to third party .So there is a chance of hacker to attact that)\
   
+# Difference  Cloud Providers and its benifits?
+ ## 
+ 1.AWS.\
+ 2.Microsoft Azure.\
+ 3.Google Cloud.\
+ 4.Alibaba Cloud.\
+ 5.IBM Cloud.\
+ 6.Oracle Cloud.
+ 
+ 
+
+
+  
   
   
