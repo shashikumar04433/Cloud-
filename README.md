@@ -6,8 +6,8 @@ Beginner to the cloud computing
   
 # Advantages and Disadvantages  of Cloud?
 ## Advantages:
-   1.Back up and restore data.
-   2.Low maintain cost.
+   1.Back up and restore data.--
+   2.Low maintain cost.--
    3.Pay as much as you use.(Service in the pay-per-use model).
    4.Mobility.
    5.Data Security.
