@@ -39,9 +39,10 @@ Beginner to the cloud computing
  8.AWS Elastic Beanstalk.\
  
  # Types:
- ## SAAS.(Software as a service)\
- ## PAAS.(Platform as a service)\
- ## IAAS.(Infrastructure as a service)\
+ ## 
+ SAAS.(Software as a service)\
+ PAAS.(Platform as a service)\
+ IAAS.(Infrastructure as a service)\
  
  
  
