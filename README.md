@@ -18,7 +18,7 @@ Beginner to the cloud computing
   3.Limited Control.\
   4.Security.(You will be sending sensitive info of your organizations to third party .So there is a chance of hacker to attact that)\
   
-# Difference  Cloud Providers and its benifits?
+# Difference  Cloud Providers?
  ## 
  1.AWS.\
  2.Microsoft Azure.\
@@ -26,6 +26,24 @@ Beginner to the cloud computing
  4.Alibaba Cloud.\
  5.IBM Cloud.\
  6.Oracle Cloud.
+ 
+ # Important Services in AWS?
+ ## 
+ 1.Amazon Elastic Compute Cloud.\
+ 2.Amazon S3.\
+ 3.Amazon RDS.\
+ 4.Aws Lambda.\
+ 5.Amazon DynamoDB.\
+ 6.Amazon Virtual Private Cloud.\
+ 7.Amazon Glacier.\
+ 8.AWS Elastic Beanstalk.\
+ 
+ # Types:
+ ## SAAS.(Software as a service)\
+ ## PAAS.(Platform as a service)\
+ ## IAAS.(Infrastructure as a service)\
+ 
+ 
  
  
 
