@@ -41,12 +41,15 @@ Beginner to the cloud computing
  # Types:
  ## 
  ## SAAS.(Software as a service).\
+ 
     The purpose of SAAS is to deliver on demand computing services through the applications over the internet .It improves accessbility ,scalability,and realiability while minimizing overhead and maintainance cost.
  
  ## PAAS.(Platform as a service).\
+ 
     The use is to develop software for internal use or offered for sale.
    
  ## IAAS.(Infrastructure as a service).\
+ 
     It provides all the infrastructure to support web apps.
  
 
